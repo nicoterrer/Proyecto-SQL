@@ -7,7 +7,7 @@ Este repositorio contiene el proyecto final del módulo de SQL. El objetivo prin
 * **Lenguaje:** SQL (PostgreSQL)
 * **Herramienta de Gestión de BBDD:** DBeaver
 * **Entorno:** Repositorio local y remoto (GitHub)
-* 
+
 ## 📂 Estructura del Repositorio
 El proyecto consta de los siguientes archivos:
 1.  **`PROYECTO CONSULTAS.sql`**: Archivo principal que contiene las **64 consultas** resueltas. Cada consulta está debidamente numerada y comentada con su enunciado original.
